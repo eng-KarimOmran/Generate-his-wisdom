@@ -1,0 +1,24 @@
+.QuoteOfTheDay{
+    background-image: url("/img/pexels-gabby-k-5874608.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.QuoteDesign{
+    min-height: 200px;
+    margin-top: 50px;
+}
+.bg-NameAuthor{
+    height: 50px;
+    display: inline-block;
+    margin-top: -25px;
+}
+.PQuote{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Edu AU VIC WA NT Pre", serif;
+}
+.NameAuthor{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+}
